@@ -1,7 +1,5 @@
 <template>
-
-    <router-view/>
-
+<router-view/>
 </template>
 
 <script>
@@ -20,7 +18,7 @@ export default {
     color: #2c3e50;
     margin-top: 60px;
 }
-    
+
 body {
     background-color: #3c4859
 }
