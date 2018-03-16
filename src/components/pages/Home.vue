@@ -1,8 +1,14 @@
 <template>
+  <div>
+    <Header></Header>
     <h1>{{ msg }}</h1>
+  </div>
 </template>
 
 <script>
+
+import Header from '../Header';
+
 export default {
   name: 'Home',
   data() {
@@ -10,6 +16,7 @@ export default {
       msg: 'Welcome to Logit',
     };
   },
+  components: { Header },
 };
 </script>
 
