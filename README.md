@@ -1,3 +1,3 @@
 # logit
 
-#### CeciliaFredriksson malinspindel
+#### Contributors: malinspindel, CeciliaFredriksson
